@@ -125,9 +125,16 @@ Trained Models
 
 Metrics
 
+- Accuracy
+- Precision
+- Recall
+- F1 Score
 - RMSE
 - MAE
 - R² Score
+
+<img width="1283" height="162" alt="image" src="https://github.com/user-attachments/assets/8e52b25e-287a-4d04-acd0-ac677dd61595" />
+
 
 Select the best-performing model.
 
